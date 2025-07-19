@@ -54,7 +54,8 @@ const Index = () => {
       bathrooms: 1,
       area: 45,
       type: "Studio",
-      image: "https://images.unsplash.com/photo-1483058712412-4245e9b90334?w=800&h=600&fit=crop"
+      image: "https://images.unsplash.com/photo-1483058712412-4245e9b90334?w=800&h=600&fit=crop",
+      featured: true
     }
   ];
 
