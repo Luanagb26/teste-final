@@ -9,7 +9,7 @@
 - [x] Texto detalhe do card de destaques preto no fundo azul (falta de contraste)
 - [x] Animação do mouse não desaparece na versão mobile
 - [ ] Botão do cabeçalho fica escondido (Ideia: menu lateral que quando clicado exiba login e anunciar)
-- [ ] Último card de destaques sem a tag destaque
+- [x] Último card de destaques sem a tag destaque
 
 # Detalhes e Melhorias
 
