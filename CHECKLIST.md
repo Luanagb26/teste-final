@@ -12,6 +12,6 @@
 
 # Detalhes e Melhorias
 
-- [ ] Trocar alguns textos da navegação do cabeçalho para icones intuitivos na versão mobile (Início, comprar, contato)
 - [ ] Clicar no icone do cabeçalho não redireciona para página (Início)
+- [ ] Trocar alguns textos da navegação do cabeçalho para icones intuitivos na versão mobile (Início, comprar, contato)
 - [ ] Deixar os favoritados com coração sólido e não vazado
